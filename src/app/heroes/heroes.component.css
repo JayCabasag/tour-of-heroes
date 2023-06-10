@@ -64,3 +64,9 @@
 .heroes .name {
     align-self: center;
 }
+
+.heroes .delete {
+    max-width: max-content;
+    max-height: max-content;
+    padding: 0px 10px;
+}
